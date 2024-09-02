@@ -1,6 +1,7 @@
 # Description
 
-The program is an image recognition AI that can sort 32x32 images into ten different preset classes using a convoluted neural network
+The program is an image recognition AI that can sort 32x32 images into ten different preset classes using a convoluted neural network.
+This program uses convoluted neural networks, keras, and numpy conecpts.
 
 ## Step By Step Walkthrough
 
